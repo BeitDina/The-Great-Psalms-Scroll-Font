@@ -13,4 +13,4 @@ The fonts are encoded acording  to unicode.org font subset maps.
       
 For Windows: Right-click on the TTF file and select install 
   
-## Getting Involved  Send suggestions for changes to the *The Great Psalms Scroll 11Q5–11QPsa* project by submitting a [new issue](https://github.com/beitdina/The Great Psalms Scroll Font/issues/new).
+## Getting Involved  Send suggestions for changes to the *The Great Psalms Scroll 11Q5–11QPsa* project by submitting a [new issue](https://github.com/BeitDina/The-Great-Psalms-Scroll-Font/issues/new).
