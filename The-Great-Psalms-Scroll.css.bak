@@ -1,0 +1,150 @@
+.icon-Alef:before {
+	content: "\5d0";
+}
+.icon-AlefPhoenician:before {
+	content: "\10900";
+}
+.icon-Beth:before {
+	content: "\5d1";
+}
+.icon-BetPhoenician:before {
+	content: "\10901";
+}
+.icon-Gimel:before {
+	content: "\5d2";
+}
+.icon-GamlPhoenician:before {
+	content: "\10902";
+}
+.icon-Dal:before {
+	content: "\5d3";
+}
+.icon-DeltPhoenician:before {
+	content: "\10903";
+}
+.icon-Hei:before {
+	content: "\5d4";
+}
+.icon-HePhoenician:before {
+	content: "\10904";
+}
+.icon-Wav:before {
+	content: "\5d5";
+}
+.icon-WauPhoenician-x10905:before {
+	content: "\10905";
+}
+.icon-Zain:before {
+	content: "\5d6";
+}
+.icon-ZaiPhoenician-x10906:before {
+	content: "\10906";
+}
+.icon-Het:before {
+	content: "\5d7";
+}
+.icon-HetPhoenician-x10907:before {
+	content: "\10907";
+}
+.icon-Tet:before {
+	content: "\5d8";
+}
+.icon-TetPhoenician-x10908:before {
+	content: "\10908";
+}
+.icon-Yod:before {
+	content: "\5d9";
+}
+.icon-YodPhoenician-x10909:before {
+	content: "\10909";
+}
+.icon-FinalKaf:before {
+	content: "\5da";
+}
+.icon-Kaf:before {
+	content: "\5db";
+}
+.icon-KafPhoenician-x1090a:before {
+	content: "\1090a";
+}
+.icon-Lamed:before {
+	content: "\5dc";
+}
+.icon-LamdPhoenician:before {
+	content: "\1090b";
+}
+.icon-FinalMem:before {
+	content: "\5dd";
+}
+.icon-Mem:before {
+	content: "\5de";
+}
+.icon-MemPhoenician:before {
+	content: "\1090c";
+}
+.icon-FinalNun:before {
+	content: "\5df";
+}
+.icon-Nun:before {
+	content: "\5e0";
+}
+.icon-NunPhoenician:before {
+	content: "\1090d";
+}
+.icon-Samekh:before {
+	content: "\5e1";
+}
+.icon-SemkPhoenician:before {
+	content: "\1090e";
+}
+.icon-Ayin:before {
+	content: "\5e2";
+}
+.icon-AyinPhoenician:before {
+	content: "\1090f";
+}
+.icon-FinalPeh:before {
+	content: "\5e3";
+}
+.icon-Peh:before {
+	content: "\5e4";
+}
+.icon-PePhoenician:before {
+	content: "\10910";
+}
+.icon-FinalTzadi:before {
+	content: "\5e5";
+}
+.icon-Tzadi:before {
+	content: "\5e6";
+}
+.icon-TsadePhoenician:before {
+	content: "\10911";
+}
+.icon-Qof:before {
+	content: "\5e7";
+}
+.icon-QofPhoenician:before {
+	content: "\10912";
+}
+.icon-Resh:before {
+	content: "\5e8";
+}
+.icon-RoshPhenician:before {
+	content: "\10913";
+}
+.icon-Shin:before {
+	content: "\5e9";
+}
+.icon-ShenPhoenician:before {
+	content: "\10914";
+}
+.icon-Tav:before {
+	content: "\5ea";
+}
+.icon-TauPhoenician-x10915:before {
+	content: "\10915";
+}
+.icon-Separator:before {
+	content: "\1091f";
+}
