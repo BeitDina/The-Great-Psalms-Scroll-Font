@@ -1,6 +1,6 @@
 # The Great Psalms Scroll Font
 
-# Font Version 0.1 Alpha - The Great Psalms Scroll 11Q5 – 11Q Psa 
+# Font Version 0.2 Alpha - The Great Psalms Scroll 11Q5 – 11Q Psa 
   
 # This font contain glyphs for realizing the ancient Dead Sea Great Psalms Scroll Alphabet.
  
