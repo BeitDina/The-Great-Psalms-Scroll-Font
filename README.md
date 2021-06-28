@@ -1,7 +1,10 @@
 # The Great Psalms Scroll Font
 
-# Font Version 0.2 Alpha - The Great Psalms Scroll 11Q5 – 11Q Psa 
-  
+# Font Version 0.2 Alpha - The Great Psalms Scroll 11Q5 – 11Q PsA PsB, parchment 
+with Phoenician Alphabet Yod-Hey-Wav-Hey was according some strollers 
+copied ca. 30-50 C.E. under the king Herodes Arhelaus who did tried 
+to reiterate the old Phoenician City renamed Caesarea. Height 18.5 cm (7 1/4 inch.), length 86 cm (33 3/4 inch.)  
+
 # This font contain glyphs for realizing the ancient Dead Sea Great Psalms Scroll Alphabet.
  
 The fonts are encoded acording  to unicode.org font subset maps.
